@@ -1,2 +1,2 @@
-## this contains all of my unit tests that ive performed 
+## this contains all of the unit tests that have been performed 
 > contributed by <boyelanrewaju@gmail.com> and <>
